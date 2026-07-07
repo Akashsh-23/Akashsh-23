@@ -7,7 +7,6 @@
 <br/>
 
 [![Institute](https://img.shields.io/badge/MANIT-Bhopal-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)](https://www.manit.ac.in/)
-[![CGPA](https://img.shields.io/badge/CGPA-7.49-7C3AED?style=flat-square)](#)
 [![Location](https://img.shields.io/badge/Location-Bhopal%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 <br/>
@@ -26,7 +25,7 @@
 
 <br/>
 
-## 🧬 About Me
+## About Me
 
 <img align="right" width="280" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A78BFA&width=280&lines=import+pandas+as+pd;model.fit(X_train%2C+y_train);SELECT+*+FROM+insights;print('Shipping...')" />
 
@@ -36,7 +35,7 @@ I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** w
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -74,7 +73,7 @@ I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** w
 
 <br/>
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Details |
 |---|---|
@@ -87,11 +86,29 @@ I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** w
 
 <br/>
 
-
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📊 Customer Behavior Analytics Platform</b></summary>
+<summary><b>A/B Testing & Statistical Significance Engine</b></summary>
+<br/>
+
+Statistical experimentation library covering sample size estimation, frequentist hypothesis testing, multi-variant comparisons, and Bayesian A/B analysis — implemented from first principles rather than wrapping a high-level statistics API.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, SciPy, statsmodels, pandas, NumPy, Plotly, Streamlit, pytest |
+| **Scale** | 6 statistical test methods · 87 automated tests passing |
+| **Performance** | Monte Carlo–calibrated: verified ~80% power detection and ~5% Type I error rate |
+| **Security** | Every method validated against statsmodels reference implementations |
+| **Impact** | Interactive dashboard surfaces frequentist and Bayesian verdicts side by side for data-driven experiment decisions |
+| **Repository** | [View Repo](https://github.com/Akashsh-23/ab-testing-engine) |
+
+Implemented sample size calculators for both binomial and continuous metrics, a full frequentist test suite (t-test, z-test, chi-square, ANOVA, Mann-Whitney) with Bonferroni correction for multi-variant testing, and a Beta-Binomial Bayesian engine reporting probability of superiority and expected loss. Built a Monte Carlo simulator to calibrate power and false-positive rates, and shipped a Streamlit dashboard for real-time posterior visualization.
+
+</details>
+
+<details>
+<summary><b>Customer Behavior Analytics Platform</b></summary>
 <br/>
 
 End-to-end analytics pipeline built on 3,900+ retail transactions across 18 dimensions, with automated data cleaning, feature engineering, and PostgreSQL ingestion for downstream BI consumption.
@@ -110,7 +127,7 @@ Used `pandas` to impute missing ratings via category-wise medians, engineered fe
 </details>
 
 <details>
-<summary><b>🔁 Customer Churn Prediction Pipeline</b></summary>
+<summary><b>Customer Churn Prediction Pipeline</b></summary>
 <br/>
 
 Full ML pipeline — preprocessing, EDA, feature engineering, and modeling — built on the IBM Telco dataset (7,043 records), deployed as an explainable Streamlit application.
@@ -129,7 +146,7 @@ Trained and compared Logistic Regression, Decision Tree, Random Forest, and XGBo
 </details>
 
 <details>
-<summary><b>📈 Equity Research Workbench V2</b></summary>
+<summary><b>Equity Research Workbench V2</b></summary>
 <br/>
 
 Financial analytics platform that fetches live NSE financial statements, computes financial ratios, and stores historical data for equity research and company comparison.
@@ -147,28 +164,9 @@ Delivered company comparison, historical search, automated Excel report generati
 
 </details>
 
-<details>
-<summary><b>🧪 A/B Testing & Statistical Significance Engine</b></summary>
 <br/>
 
-Statistical experimentation library covering sample size estimation, frequentist hypothesis testing, multi-variant comparisons, and Bayesian A/B analysis — implemented from first principles rather than wrapping a high-level statistics API.
-
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, SciPy, statsmodels, pandas, NumPy, Plotly, Streamlit, pytest |
-| **Scale** | 6 statistical test methods · 87 automated tests passing |
-| **Performance** | Monte Carlo–calibrated: verified ~80% power detection and ~5% Type I error rate |
-| **Security** | Every method validated against statsmodels reference implementations |
-| **Impact** | Interactive dashboard surfaces frequentist and Bayesian verdicts side by side for data-driven experiment decisions |
-| **Repository** | [View Repo](https://github.com/Akashsh-23/ab-testing-engine) |
-
-Implemented sample size calculators for both binomial and continuous metrics, a full frequentist test suite (t-test, z-test, chi-square, ANOVA, Mann-Whitney) with Bonferroni correction for multi-variant testing, and a Beta-Binomial Bayesian engine reporting probability of superiority and expected loss. Built a Monte Carlo simulator to calibrate power and false-positive rates, and shipped a Streamlit dashboard for real-time posterior visualization.
-
-</details>
-
-<br/>
-
-## 🎓 Positions of Responsibility
+## Positions of Responsibility
 
 **Vice President · DebSoc, MANIT**
 `2023 — Present`
@@ -182,7 +180,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 <br/>
 
-## 📜 Certifications
+## Certifications
 
 **Kaggle**
 
@@ -197,7 +195,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 <br/>
 
-## 💻 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 
@@ -208,7 +206,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -231,7 +229,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 <br/>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -239,7 +237,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -249,7 +247,7 @@ Implemented sample size calculators for both binomial and continuous metrics, a 
 
 <br/>
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 current_focus:
@@ -271,7 +269,7 @@ current_focus:
 
 <br/>
 
-## 📬 Connect With Me
+## Connect With Me
 
 <div align="center">
 
