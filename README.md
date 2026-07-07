@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Akash%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20AI%2FML%20%7C%20Analytics%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+Chemical+Engineering+%7C+MANIT+Bhopal;Data+%26+ML+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;Building+End-to-End+Analytics+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+Chemical+Engineering+%7C+MANIT+Bhopal;Turning+Raw+Data+Into+Decisions;Python+%7C+SQL+%7C+Machine+Learning;Building+End-to-End+Analytics+Pipelines" />
 
 <br/>
 
@@ -30,18 +30,7 @@
 
 <img align="right" width="280" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=A78BFA&width=280&lines=import+pandas+as+pd;model.fit(X_train%2C+y_train);SELECT+*+FROM+insights;print('Shipping...')" />
 
-I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** who pivoted deep into **data engineering, analytics, and applied machine learning**. I build end-to-end pipelines — from raw, messy data to production-ready dashboards and predictive models — with a strong emphasis on data integrity, reproducibility, and stakeholder-ready insight delivery.
-
-My work spans **Python-based ETL pipelines**, **SQL analytics engineering**, **classification & regression modeling**, and **BI dashboarding**, backed by a product-engineering mindset focused on measurable business impact rather than just model accuracy.
-
-```yaml
-Engineer:
-  name: "Akash Sharma"
-  role: "Data Analyst | Aspiring ML / Data Engineer"
-  focus: ["Python", "SQL", "Machine Learning", "Power BI", "Data Pipelines"]
-  currently_building: "End-to-end analytics & ML systems"
-  fun_fact: "Debater by evening, data engineer by day"
-```
+I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** working across data pipelines, applied machine learning, and BI reporting. I've built projects spanning retail analytics, churn prediction, and equity research — turning messy, real-world datasets into models and dashboards that stakeholders can actually act on.
 
 **🎯 Open To:** Data Analyst / Data Science Internships · ML Engineering Roles · Analytics Engineering · Open Source Collaboration
 
@@ -55,7 +44,7 @@ Engineer:
 
 ![Skills](https://skillicons.dev/icons?i=python,java,mysql,postgres,sqlite&theme=dark)
 
-**Data, ML & Visualization**
+**Analysis & Modeling**
 
 ![Skills](https://skillicons.dev/icons?i=pandas,sklearn,plotly&theme=dark)
 ![PowerBI](https://img.shields.io/badge/Power_BI-A78BFA?style=flat-square&logo=powerbi&logoColor=white)
@@ -82,14 +71,14 @@ Engineer:
 
 ## 🧠 AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐ | Regression, Classification, Decision Trees, Random Forest, XGBoost, Model Evaluation |
-| **Feature Engineering** | ⭐⭐⭐⭐ | Missing-value imputation, categorical encoding, derived feature design |
-| **Model Explainability** | ⭐⭐⭐ | SHAP-based interpretability for classification pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐ | SQL (Joins, CTEs, Window Functions), ETL pipelines, schema design |
-| **BI & Visualization** | ⭐⭐⭐⭐ | Power BI dashboards, Plotly, Matplotlib storytelling |
-| **GenAI** | ⭐⭐⭐ | Prompt engineering for applied analytics workflows |
+| Domain | Details |
+|---|---|
+| **Machine Learning** | Regression, Classification, Decision Trees, Random Forest, XGBoost, Model Evaluation |
+| **Feature Engineering** | Missing-value imputation, categorical encoding, derived feature design |
+| **Model Explainability** | SHAP-based interpretability for classification pipelines |
+| **Data Engineering** | SQL (Joins, CTEs, Window Functions), ETL pipelines, schema design |
+| **BI & Visualization** | Power BI dashboards, Plotly, Matplotlib storytelling |
+| **GenAI** | Prompt engineering for applied analytics workflows |
 
 <br/>
 
@@ -154,32 +143,17 @@ Delivered company comparison, historical search, automated Excel report generati
 
 <br/>
 
-## 💼 Experience
+## 🎓 Positions of Responsibility
 
-**Data Analyst Intern · K.P. Enterprises**
-`June 2026 — July 2026`
+**Vice President · DebSoc, MANIT**
+`2023 — Present`
 
-Worked on operational data quality and market research initiatives supporting business development for solar energy and agricultural sector clients.
+- Received the **Special Mention Award** representing China at the **UNHRC Model United Nations**, recognized for research depth and structured argumentation
 
-- Extracted, cleaned, and validated 1,500+ operational and service records from solar energy installations using SQL and Excel, improving data quality and reporting accuracy
-- Analyzed operational data and conducted market research on 80+ agricultural businesses and distributors, producing structured datasets and lead reports for business development
+**Co-Coordinator · Quizzers' Club, MANIT**
+`2023 — Present`
 
-`SQL` `Excel` `Data Cleaning` `Market Research` `Reporting`
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏅 **Finalist, MSME Hackathon** | Recognized among top teams for applied problem-solving |
-| 🔬 **National Children's Science Congress Representative** | Represented at national level for 2 consecutive years |
-| 🎖️ **Special Mention Award — UNHRC MUN** | Represented China at the UNHRC committee; recognized for research depth and structured argumentation |
-| 📈 **30%+ Increase in Event Funding** | Secured sponsorships as Co-Coordinator, Quizzers' Club, MANIT |
-
-</div>
+- Secured sponsorship partnerships through structured stakeholder outreach and coordinated end-to-end event logistics, contributing to a **30%+ increase** in event funding
 
 <br/>
 
@@ -203,6 +177,7 @@ Worked on operational data quality and market research initiatives supporting bu
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sky__23-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Sky_23)
+[![Kaggle](https://img.shields.io/badge/Kaggle-akashsh799-7C3AED?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akashsh799)
 
 </div>
 
@@ -255,18 +230,18 @@ Worked on operational data quality and market research initiatives supporting bu
 current_focus:
   learning:
     - Advanced ML System Design
-    - Cloud-native Data Pipelines
-    - Applied GenAI Engineering
+    - Cloud-native Data Warehousing
+    - Applied GenAI Workflows
   building:
-    - End-to-end ML & analytics pipelines
-    - Interactive BI dashboards for real-world datasets
+    - Production-style analytics dashboards
+    - Explainable classification models
   exploring:
     - MLOps fundamentals
-    - Scalable data warehousing patterns
+    - Scalable backend architecture
   open_to:
-    - Data Analyst / Data Science Internships
-    - ML Engineering opportunities
-    - Open-source collaboration
+    - Internships in Data / ML
+    - Engineering collaborations
+    - Open-source contributions
 ```
 
 <br/>
