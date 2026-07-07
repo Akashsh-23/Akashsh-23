@@ -46,12 +46,13 @@ I'm **Akash Sharma**, a Chemical Engineering undergraduate at **MANIT Bhopal** w
 
 **Analysis & Modeling**
 
-![Skills](https://skillicons.dev/icons?i=pandas,sklearn,plotly&theme=dark)
+![Skills](https://skillicons.dev/icons?i=pandas,sklearn,plotly,scipy,seaborn&theme=dark)
 ![PowerBI](https://img.shields.io/badge/Power_BI-A78BFA?style=flat-square&logo=powerbi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-6D28D9?style=flat-square)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6D28D9?style=flat-square)
+![statsmodels](https://img.shields.io/badge/statsmodels-5B21B6?style=flat-square)
 
 **Backend & Databases**
 
@@ -97,7 +98,7 @@ End-to-end analytics pipeline built on 3,900+ retail transactions across 18 dime
 | **Performance** | 10 optimized SQL queries using window functions & CTEs |
 | **Security** | Schema-validated ingestion via SQLAlchemy ORM |
 | **Impact** | Enabled revenue, demographic & seasonal trend analysis for stakeholder decisions |
-| **Repository** | [View Repo](https://github.com/Akashsh-23) |
+| **Repository** | [View Repo](https://github.com/Akashsh-23/customer_behavior_analytics_platform) |
 
 Used `pandas` to impute missing ratings via category-wise medians, engineered features such as `age_group` and `purchase_frequency_days`, and standardized the dataset schema for reliable PostgreSQL ingestion. Segmented customers into New/Returning/Loyal cohorts using `ROW_NUMBER()` and `PARTITION BY` window functions, powering an interactive Power BI dashboard.
 
@@ -116,7 +117,7 @@ Full ML pipeline — preprocessing, EDA, feature engineering, and modeling — b
 | **Performance** | Benchmarked via ROC-AUC, Precision, Recall, F1-score |
 | **Security** | Reproducible, version-controlled pipeline |
 | **Impact** | Delivered interpretable churn predictions for business decision-making |
-| **Repository** | [View Repo](https://github.com/Akashsh-23) |
+| **Repository** | [View Repo](https://github.com/Akashsh-23/churn_prediction_pipeline) |
 
 Trained and compared Logistic Regression, Decision Tree, Random Forest, and XGBoost classifiers, then shipped a Streamlit app with SHAP-based explanations to make model predictions transparent to non-technical stakeholders.
 
@@ -135,9 +136,28 @@ Financial analytics platform that fetches live NSE financial statements, compute
 | **Performance** | Automated ratio computation & historical trend storage |
 | **Security** | SQLite-backed persistent historical records |
 | **Impact** | Streamlined company comparison & Excel/BI reporting for research workflows |
-| **Repository** | [View Repo](https://github.com/Akashsh-23) |
+| **Repository** | [View Repo](https://github.com/Akashsh-23/Equity-Research-Workbench-V2) |
 
 Delivered company comparison, historical search, automated Excel report generation, and interactive Streamlit/Power BI dashboards for equity research workflows.
+
+</details>
+
+<details>
+<summary><b>🧪 A/B Testing & Statistical Significance Engine</b></summary>
+<br/>
+
+Statistical experimentation library covering sample size estimation, frequentist hypothesis testing, multi-variant comparisons, and Bayesian A/B analysis — implemented from first principles rather than wrapping a high-level statistics API.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, SciPy, statsmodels, pandas, NumPy, Plotly, Streamlit, pytest |
+| **Scale** | 6 statistical test methods · 87 automated tests passing |
+| **Performance** | Monte Carlo–calibrated: verified ~80% power detection and ~5% Type I error rate |
+| **Security** | Every method validated against statsmodels reference implementations |
+| **Impact** | Interactive dashboard surfaces frequentist and Bayesian verdicts side by side for data-driven experiment decisions |
+| **Repository** | [View Repo](https://github.com/Akashsh-23/ab-testing-engine) |
+
+Implemented sample size calculators for both binomial and continuous metrics, a full frequentist test suite (t-test, z-test, chi-square, ANOVA, Mann-Whitney) with Bonferroni correction for multi-variant testing, and a Beta-Binomial Bayesian engine reporting probability of superiority and expected loss. Built a Monte Carlo simulator to calibrate power and false-positive rates, and shipped a Streamlit dashboard for real-time posterior visualization.
 
 </details>
 
